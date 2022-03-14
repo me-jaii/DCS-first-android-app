@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hyperlink">Visit <a href="https://developer.android.com/">developer.android.com</a></string>
+</resources>
